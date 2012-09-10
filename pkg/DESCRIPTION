@@ -1,0 +1,17 @@
+Package: poplab
+Version: 2.0
+Date: 2012-07-31
+Title: Population Lab
+Author: Luwis Diya <luwis.diya@ki.se>
+        Monica Leu <monica.leu@ki.se> 
+        Kamila Czene <kamila.czene@ki.se>
+        Marie Reilly <marie.reilly@ki.se> 
+Maintainer: Luwis Diya <luwis.diya@ki.se>
+Depends: R (>= 2.15.0), MASS
+Suggests: MASS
+Description: Population Lab is a tool for constructing a virtual electronic population of related
+    individuals evolving over calendar time, by using vital statistics, such as mortality and
+    fertility, and incidence rates for an event of interest (e.g., disease).
+License: GPL (>= 2)
+URL: http://www.mep.ki.se/~marrei/software/poplab/
+Packaged: Mon Jul  31 16:47:00 2012; luwdiy
